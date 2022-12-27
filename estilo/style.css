@@ -55,14 +55,14 @@ header > h1{
     text-transform: uppercase;
 }
 
-header p{
+header > p {
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
     color: white;
     max-width: 600px;
     padding: 0 10px 10px 10px;   
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 }
 
